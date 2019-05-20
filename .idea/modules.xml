@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TravisExample.iml" filepath="$PROJECT_DIR$/TravisExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travisci-lab-fhfhfh999.iml" filepath="$PROJECT_DIR$/travisci-lab-fhfhfh999.iml" />
     </modules>
   </component>
 </project>
